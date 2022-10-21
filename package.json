@@ -1,16 +1,16 @@
 {
-"name": "lsm789",
-"theme": "lsm789",
-"version": "4.2.5",
-"description": "lsm789 สมัครสมาชิกเว็บไซต์พนันเว็บตรง อันดับ 1 แจกเงินเครดิตฟรี",
-"keywords": [
-"lsm789",
-"lsm789 เครดิตฟรี",
-"lsm789 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/lsm789",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "lsm789",
+  "theme": "lsm789",
+  "version": "4.3.0",
+  "description": "lsm789 สมัครสมาชิกเว็บไซต์พนันเว็บตรง อันดับ 1 แจกเงินเครดิตฟรี",
+  "keywords": [
+    "lsm789",
+    "lsm789 เครดิตฟรี",
+    "lsm789 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/lsm789",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
